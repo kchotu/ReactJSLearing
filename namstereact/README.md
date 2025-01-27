@@ -1,0 +1,1 @@
+#  namste jave script
