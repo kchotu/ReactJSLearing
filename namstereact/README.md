@@ -1,1 +1,1 @@
-#  namste jave script
+#  namaste javascript
