@@ -1,0 +1,25 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "this is react by ravi singh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kchotu/ReactJSLearing.git)"
+  },
+  "keywords": [
+    "react",
+    "namste",
+    "react",
+    "ravi",
+    "singh"
+  ],
+  "author": "ravi singh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
